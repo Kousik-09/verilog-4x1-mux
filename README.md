@@ -27,8 +27,7 @@ A common testbench is used to verify all three implementations.
 All outputs are compared and confirmed to be identical.
 
 ## 📊 Waveform
-
-![Waveform](sim/waveform.png)
+![Waveform](waveform.png)
 
 ## ✅ Conclusion
 
